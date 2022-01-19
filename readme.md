@@ -68,4 +68,24 @@ soga
 
 >>>> 第四层引用
 
+#Maekdown 插入代码块
+
+```c
+	#include<stdio.h>
+
+	int main(void)
+	{
+		printf("C output..\n");
+		return 0;
+	}
+```
+
+
+
+
+
+
+
+
+
 
